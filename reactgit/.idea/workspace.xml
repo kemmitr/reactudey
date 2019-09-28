@@ -46,7 +46,7 @@
           <entry key="css" value="17" />
           <entry key="html" value="1" />
           <entry key="js" value="5749" />
-          <entry key="toml" value="32" />
+          <entry key="toml" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -54,7 +54,7 @@
           <entry key="CSS" value="17" />
           <entry key="HTML" value="1" />
           <entry key="JavaScript" value="5749" />
-          <entry key="PLAIN_TEXT" value="32" />
+          <entry key="PLAIN_TEXT" value="40" />
         </counts>
       </usages-collector>
     </session>
@@ -65,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/netlify.toml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="19">
-              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+              <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -118,8 +118,8 @@
         <option value="$PROJECT_DIR$/src/context/github/githubReducer.js" />
         <option value="$PROJECT_DIR$/src/components/users/Search.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/netlify.toml" />
         <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/netlify.toml" />
       </list>
     </option>
   </component>
@@ -199,15 +199,16 @@
       <updated>1569538094839</updated>
       <workItem from="1569538102140" duration="4199000" />
       <workItem from="1569594986083" duration="16541000" />
-      <workItem from="1569680784583" duration="13958000" />
+      <workItem from="1569680784583" duration="14150000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34698000" />
+    <option name="totallyTimeSpent" value="34890000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1372" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2547847" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -401,7 +402,7 @@
     <entry file="file://$PROJECT_DIR$/netlify.toml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+          <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
         </state>
       </provider>
     </entry>
